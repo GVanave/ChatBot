@@ -1,0 +1,12 @@
+Datum: 15/04/2024
+Audatic GmbH
+Berlin, Germany
+Subject: Application for Deep Learning Engineer Position 
+Dear Hiring Manager,
+I am particularly drawn to Audatic's mission of leveraging state-of-the-art deep learning technology to render speech clear and free of noise, thereby enabling individuals with hearing loss to fully engage in social settings. I am eager to bring my expertise in deep learning algorithms, data optimization techniques, and software engineering practices to contribute to your dynamic team.
+As a graduate student pursuing a Master's degree in Optics and Photonics with a specialization in Optical Systems at the Karlsruhe Institute of Technology, I have gained extensive experience in both theoretical knowledge and practical applications of machine learning and computer vision. My academic journey has equipped me with a solid foundation in Python programming, deep learning frameworks such as PyTorch and TensorFlow, and data science methodologies.
+During my tenure as a Student Assistant at FZI Research Institute, I had the opportunity to work on diverse projects ranging from data analysis to computer vision. Notably, I spearheaded the development of AI models to predict blood pressure levels and study effect of adversarial attack on image segmentation. At Software AG, I conducted research on machine learning pipelines for tabular data, demonstrating my ability to innovate and optimize workflows. Similarly, at Zeiss Group, I collaborated with medical experts to develop object detection and tracking solutions from medical images, showcasing my interdisciplinary approach and effective communication skills.
+What excites me most about the opportunity at Audatic is the chance to contribute to the development of novel algorithms for customizable sound environments. I am eager to collaborate with a talented team of professionals and stay at the forefront of deep learning research to drive innovation and enhance user experiences.
+Thank you for considering my application. I am looking forward to the opportunity to discuss how my skills and experiences align with Audatic's goals in more detail.
+Best regards,
+Ganesh Gorakh Vanave
